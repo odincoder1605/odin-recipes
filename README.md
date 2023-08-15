@@ -2,4 +2,4 @@
 
 This is a HTML based website.
 
-In this project basics of HTML are covered and tags like <a>,<meta>,<img>,<ul>,<ol> are used.
+In this project basics of HTML are covered and tags of link,img,meta are used.
